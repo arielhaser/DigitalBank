@@ -1,0 +1,8 @@
+﻿  Account.cpp
+C:\Users\arielh\source\repos\DigitalBank\DigitalBank\Account.cpp(101,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Basic.cpp
+  List.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\arielh\source\repos\DigitalBank\DigitalBank\Account.cpp(82): warning C4715: 'Account::startOperation': not all control paths return a value
+  DigitalBank.vcxproj -> C:\Users\arielh\source\repos\DigitalBank\x64\Debug\DigitalBank.exe
